@@ -2,7 +2,8 @@
 
 # School Manager
 
-[Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-green) ![Java](https://img.shields.io/badge/Java-21-blue) ![Maven](https://img.shields.io/badge/Maven-3.8.4-red) ![H2 Database](https://img.shields.io/badge/H2%20Database-1.4.200-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.1-green) 
+![Java](https://img.shields.io/badge/Java-21-blue) ![Maven](https://img.shields.io/badge/Maven-3.8.4-red) ![H2 Database](https://img.shields.io/badge/H2%20Database-1.4.200-blue)
 
 School Manager is a sample project built with Spring Boot 3.3. It provides an API to manage courses and trainers. The project uses Maven for dependency management and an in-memory H2 database for data storage.
 
